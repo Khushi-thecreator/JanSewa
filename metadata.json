@@ -1,0 +1,6 @@
+{
+  "name": "JanSewa India Civic Portal",
+  "description": "An end-to-end national municipal grievance reporting, spatial monitoring, and citizen-alert infrastructure platform developed for all municipal corporations across India.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
